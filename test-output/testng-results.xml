@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-17T12:35:44 IST" name="Suite" finished-at="2020-12-17T12:36:22 IST" duration-ms="38390">
+    <groups>
+    </groups>
+    <test started-at="2020-12-17T12:35:44 IST" name="Smoke_Test" finished-at="2020-12-17T12:36:22 IST" duration-ms="38390">
+      <class name="tests.TS_01">
+        <test-method is-config="true" signature="openWebsite()[pri:0, instance:tests.TS_01@3943a2be]" started-at="2020-12-17T12:35:37 IST" name="openWebsite" finished-at="2020-12-17T12:35:44 IST" duration-ms="7449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+        <test-method signature="credentials()[pri:0, instance:tests.TS_01@3943a2be]" started-at="2020-12-17T12:35:44 IST" name="credentials" finished-at="2020-12-17T12:35:57 IST" duration-ms="12782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credentials -->
+        <test-method signature="search()[pri:1, instance:tests.TS_01@3943a2be]" started-at="2020-12-17T12:35:57 IST" name="search" finished-at="2020-12-17T12:36:22 IST" duration-ms="25152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="exitBrowser()[pri:0, instance:tests.TS_01@3943a2be]" started-at="2020-12-17T12:36:23 IST" name="exitBrowser" finished-at="2020-12-17T12:36:25 IST" duration-ms="1153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitBrowser -->
+      </class> <!-- tests.TS_01 -->
+    </test> <!-- Smoke_Test -->
+  </suite> <!-- Suite -->
+</testng-results>
